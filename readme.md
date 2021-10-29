@@ -6,3 +6,4 @@ estamos aprendiendo hacer merge
 estoy aprendiendo a hacer branch`s
 
 soy sergio
+soy jhon E y sigo practicando Git
